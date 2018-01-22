@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
 int n;
 clrscr();
@@ -14,4 +13,5 @@ else
 {
 printf("%d is not leap year",n);
 }
+  return 0;
 }
